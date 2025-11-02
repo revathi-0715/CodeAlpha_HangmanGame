@@ -47,3 +47,4 @@ while incorrect_guesses < max_attempts:
         break
 else:
     print("💀 Game over! The word was:", secret_word)
+
